@@ -1,0 +1,20 @@
+## evolution_tulip-userdebug 14 UQ1A.240105.004 1704978925 release-keys
+- Manufacturer: xiaomi
+- Platform: sdm660
+- Codename: tulip
+- Brand: Xiaomi
+- Flavor: evolution_tulip-userdebug
+- Release Version: 14
+- Kernel Version: 4.19.152
+- Id: UQ1A.240105.004
+- Incremental: 1704978925
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: false
+- Treble Device: true
+- Locale: en-US
+- Screen Density: undefined
+- Fingerprint: Xiaomi/evolution_tulip/tulip:14/UQ1A.240105.004/tedomi01112015:userdebug/release-keys
+- OTA version: 
+- Branch: evolution_tulip-userdebug-14-UQ1A.240105.004-1704978925-release-keys
+- Repo: xiaomi_tulip_dump
