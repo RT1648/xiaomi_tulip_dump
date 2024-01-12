@@ -1,0 +1,13 @@
+kernel=kernel
+ramdisk=ramdisk
+page_size=4096
+kernel_size=13172266
+ramdisk_size=1491449
+base_addr=0x00000000
+kernel_offset=0x00008000
+ramdisk_offset=0x01000000
+tags_offset=0x00000100
+dtbo_offset=0x00000000
+cmd_line='androidboot.configfs=true androidboot.hardware=qcom androidboot.usbcontroller=a800000.dwc3 ehci-hcd.park=3 kpti=off loop.max_part=7 lpm_levels.sleep_disabled=1 msm_rtb.filter=0x37 printk.devkmsg=on service_locator.enable=1 usbcore.autosuspend=7 user_debug=31 androidboot.boot_devices=soc/c0c4000.sdhci androidboot.init_fatal_reboot_target=recovery androidboot.super_partition=system'
+board=""
+format=gzip
